@@ -3,7 +3,7 @@
 # Cryptocurrency Adoption Across The World
 ### Background:
 
- In this financial analysis we take a deep dive into how the adoption of cryptocurrencies is challenging the traditional financial infrastructure across international lines. In this analysis we will be pulling publicly available data to look for patterns, trends and corrolation to give our audience the most accurate macro level perspective with micro level details as to how we came to our conclusions. We intend to present the results of our analysis with the use of widely accepted and understood metrics within the financial industry along with software programming tools, such as but not limited to, data sampling, data anaylysis, Monte Carlo Simulation, Sharpe Ratio, etc to illustrate that cryptocurrency is improving the economic state of those outside of the traditional financial system. We will collect data going back 5 years representing 5 cyptocurrecies and fiat currencies form 5 countries. We will then compare and contrast the data using the S&P 500 and the US dollar as benchmarks to gain a better understanding of future investment potential. Our primary endpoint will to answer the follwing questions and provide a clear view of trends and patterns both statistically and visually.
+ In this financial analysis we take a deep dive into how the adoption of cryptocurrencies is challenging the traditional financial infrastructure across international lines. In this analysis we will be pulling publicly available data to look for patterns, trends and correlation to give our audience the most accurate macro level perspective with micro level details as to how we came to our conclusions. We intend to present the results of our analysis with the use of widely accepted and understood metrics within the financial industry along with software programming tools, such as but not limited to, data sampling, data anaylysis, Monte Carlo Simulation, Sharpe Ratio, etc to illustrate that cryptocurrency is improving the economic state of those outside of the traditional financial system. We will collect data going back 5 years representing 5 cyptocurrecies and fiat currencies form 5 countries. We will then compare and contrast the data using the S&P 500 and the US dollar as benchmarks to gain a better understanding of future investment potential. Our primary endpoint will to answer the follwing questions and provide a clear view of trends and patterns both statistically and visually.
 
 [![](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2021/05/07/cryptocurrency-Nuthawut-adobe.jpg?h=6acbff97&itok=kyPXtQ0N)](https://travis-ci.org/joemccann/dillinger)
 
@@ -55,7 +55,7 @@ Kenya
  
 ### Team Contributors
 - Erfan Hajiamouassar
-- Rachel Carrol
+- Rachel Carroll
 - Joseph Garcia
 - Armando Ruiz
 
