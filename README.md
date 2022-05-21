@@ -12,8 +12,6 @@
 >With all economic factors remaining constant, we will also be running a Monte Carlo simulation to illustrate the potential profit/loss outcome of a $ 15k (USD) investment five years out with the start year of 2022.
 
 ### Data Sampling:
-
-- Data samples, population and economic figures will be pulled from the following 
 Google Finance
 Triple-A
 Coinlore
@@ -22,7 +20,6 @@ Alpaca
 Trading View
 
 ### Countries
-- The following countries were selected as part of analysis
 Ukraine
 Singapore
 Russia
@@ -30,7 +27,6 @@ Venezuela
 Kenya
 
 ### Cryptocurrencies
-- The following cyptocurrencies used in our data analysis
 - Bitcoin
 - Ethereum
 - Litecoin
