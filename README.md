@@ -12,19 +12,19 @@
 >With all economic factors remaining constant, we will also be running a Monte Carlo simulation to illustrate the potential profit/loss outcome of a $ 15k (USD) investment five years out with the start year of 2022.
 
 ### Data Sampling:
-Google Finance
-Triple-A
-Coinlore
-Quandl
-Alpaca
+Google Finance <br>
+Triple-A <br>
+Coinlore <br>
+Quandl <br>
+Alpaca <br>
 Trading View
 
 ### Countries
-Ukraine
-Singapore
-Russia
-Venezuela
-Kenya
+Ukraine <br>
+Singapore <br>
+Russia <br>
+Venezuela <br>
+Kenya 
 
 ### Cryptocurrencies
 - Bitcoin
