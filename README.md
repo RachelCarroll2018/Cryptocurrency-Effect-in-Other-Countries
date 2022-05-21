@@ -43,13 +43,13 @@ Kenya
 - 5 year investment potential of $15K (2022-2027)
 
 ### Programming Tools
-- [Python] - programming language
-- [pandas] - data anlysis library
+- Python - programming language
+- Pandas - data anlysis library
 - MC forcast tools
-- [Mapplotlib] - python visualization tool
-- [Numpy] - python mathmatical and data structure library
-- [Mapbox] - map API
-- [Pil] - python imaging library
+- Mapplotlib - python visualization tool
+- Numpy - python mathmatical and data structure library
+- Mapbox - map API
+- PIL - python imaging library
  
 ### Team Contributors
 - Erfan Hajiamouassar
