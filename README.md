@@ -1,5 +1,3 @@
-# FinTech-Project-1
-
 # Cryptocurrency Adoption Across The World
 ### Background:
 
