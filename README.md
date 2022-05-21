@@ -56,7 +56,3 @@ Kenya
 - Rachel Carroll
 - Joseph Garcia
 - Armando Ruiz
-
-
-
-[![](https://cdn.howmuch.net/articles/cover-updated-%281%29-9006.jpg)](https://travis-ci.org/joemccann/dillinger)
