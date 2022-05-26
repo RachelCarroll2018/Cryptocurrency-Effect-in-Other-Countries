@@ -1,7 +1,7 @@
 # Cryptocurrency Adoption Across The World
 ### Background:
 
-In this financial analysis we take a deep dive into how the adoption of cryptocurrencies is challenging the traditional financial infrastructure across international lines. Our main questions to answer are outlined below. <br>
+In this financial analysis we take a deep dive into how the adoption of cryptocurrencies is challenging the traditional financial infrastructure across international lines. Our main questions to answer are: What is the risk to reward ratio of investing in cryptocurrency? Are cryptocurrencies correlated to more standard stocks like the S&P 500? And, what countries have adopted cryptocurrency and what could be the motivation for doing so? <br>
  
 We intend to present the results of our analysis with the use of widely accepted and understood metrics within the financial industry along with software programming tools, such as but not limited to, data sampling, data analysis, Monte Carlo Simulation, Sharpe Ratio, etc.<br>
 
@@ -28,7 +28,7 @@ We intend to present the results of our analysis with the use of widely accepted
 >![country usage](https://user-images.githubusercontent.com/98990090/170398298-2e50a526-5e26-403c-ad40-fc7f7cd47fc2.png)
 > ![mapbox](https://user-images.githubusercontent.com/98990090/170401570-aabf5cd8-f1b0-48ed-82e1-449fbed1bcd2.png)
 > 
-> Ukraine and Russia have the highest usage of cryptocurrency based on their percentage with Ukraine leading at 12.73% usage and Russia at 11.91% usage. 
+> Ukraine and Russia have the highest usage of cryptocurrency based on their percentage with Ukraine leading at 12.73% usage and Russia at 11.91% usage. Crypto Trends Explained Through Politics and Economics: https://github.com/RachelCarroll2018/Cryptocurrency-Effect-in-Other-Countries/blob/main/Crypto%20Trends%20Explained%20Through%20Politics%20and%20Economics.md
 
 > ### Is there a correlation between S&P 500 and Cryptocurrency?
 
