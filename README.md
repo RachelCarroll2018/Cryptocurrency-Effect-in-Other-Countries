@@ -26,15 +26,15 @@ We intend to present the results of our analysis with the use of widely accepted
 >### What countries have adopted cryptocurrency the most based on population percentage?
 >
 >![country usage](https://user-images.githubusercontent.com/98990090/170398298-2e50a526-5e26-403c-ad40-fc7f7cd47fc2.png)
+> ![mapbox](https://user-images.githubusercontent.com/98990090/170401570-aabf5cd8-f1b0-48ed-82e1-449fbed1bcd2.png)
+> 
 > Ukraine and Russia have the highest usage of cryptocurrency based on their percentage with Ukraine leading at 12.73% usage and Russia at 11.91% usage. 
 
 > ### Is there a correlation between S&P 500 and Cryptocurrency?
-> 
+
 > ![sp500](https://user-images.githubusercontent.com/98990090/170398845-a507dea7-462e-4bac-aa17-f95562022289.png)
 > 
 > Interestingly, almost all crypto's are negatively correlated to the S&P 500. When the stock price of S&P 500 increases, cryptocurrencies like Bitcoin, and Ethereum very strongly decrease. Cryptocurrencies like Litecoin and Monero are also negatively correlated but not as strongly. Finally, Dash is not strongly correlated at all, the S&P 500 has no effect on stock prices for Dash.
-
-
 
 ### Data Sampling:
 - Google Finance <br>
