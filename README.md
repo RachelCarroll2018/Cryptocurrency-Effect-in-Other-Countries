@@ -7,9 +7,11 @@ We intend to present the results of our analysis with the use of widely accepted
 
 [![](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2021/05/07/cryptocurrency-Nuthawut-adobe.jpg?h=6acbff97&itok=kyPXtQ0N)](https://travis-ci.org/joemccann/dillinger)
 
->How are countries affected by the increase in cryptocurrency usage outside of the United States?
->
-> ### How are cryptocurrencies performing when compared to the native countries' established currency?
+> ### Is there a correlation between S&P 500 and Cryptocurrency?
+> 
+> ![sp500](https://user-images.githubusercontent.com/98990090/170398845-a507dea7-462e-4bac-aa17-f95562022289.png)
+> 
+> Interestingly, almost all crypto's are negatively correlated to the S&P 500. When the stock price of S&P 500 increases, cryptocurrencies like Bitcoin, and Ethereum very strongly decrease. Cryptocurrencies like Litecoin and Monero are also negatively correlated but not as strongly. Finally, Dash is not strongly correlated at all, the S&P 500 has no effect on stock prices for Dash.
 >
 >
 >### What countries have adopted cryptocurrency the most based on population percentage?
@@ -64,4 +66,3 @@ We intend to present the results of our analysis with the use of widely accepted
 - Erfan Hajiamouassar
 - Rachel Carroll
 - Joseph Garcia
-- Armando Ruiz
